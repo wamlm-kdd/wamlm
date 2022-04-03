@@ -1,0 +1,45 @@
+# Jekyll workshop-template evanwill
+# https://github.com/evanwill/workshop-template
+# based on minima theme https://github.com/jekyll/minima
+
+# Notes: 
+# - pages with "nav: true" in front matter will be in header nav
+# - figure include for centered images, put file in images directory and use: {% include figure.html img="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
+
+# Site settings
+# title appears in the header
+title: Workshop on Applied Machine Learning Management
+# description and keywords for meta tags
+description: "Machine learning applications are rapidly adopted by industry leaders in any field. The growth of investment in AI-driven solutions created new challenges in managing Data Science and ML resources, people and projects as a whole. The discipline of managing applied machine learning teams, requires a healthy mix between agile product development tool-set and a long term research oriented mindset.  The abilities of investing in deep research while at the same time connecting the outcomes to significant business results create a large knowledge based on management methods and best practices in the field. The Workshop on Applied Machine Learning Management brings together applied research managers from various fields to share methodologies and case-studies on management of ML teams, products, and projects, achieving business impact with advanced AI-methods."
+keywords: "workshops, kdd, applied ml, management"
+
+# author settings for cc-by, appears in the footer
+author: Irina Vasilinetc
+pub_year: 2022
+github_username: ivasilinetc
+
+# add the full url for the github repository
+repo: "https://github.com/wamlm-kdd/2022"
+
+# site urls
+# add the url for the domain,
+# on gh-pages follow the pattern: https://username.github.io 
+url: https://wamlm-kdd.github.io
+# add subsection of the domain,
+# on gh-pages this is a / followed by the name of the repository
+baseurl: /2022
+
+# add google analytics if desired (optional)
+# if blank, it will be ignored
+# use JEKYLL_ENV=production on build command
+google_analytics: 
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Build settings
+markdown: kramdown
