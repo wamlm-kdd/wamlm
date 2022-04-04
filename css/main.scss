@@ -10,11 +10,29 @@ $text-color:#111 !default;
 $headings-color: #111;
 $background-color: #fdfdfd !default;
 
-div {
+.div_main {
   width: 80%;
   text-align: left;
   margin: auto;
 }
+
+.beauty_table {
+  width: 100%;
+}
+.beauty_table table {
+  width: 80%;
+}
+.beauty_table tr {
+  word-wrap: break-word;
+  text-align: center;
+}
+
+.beauty_table td {
+  word-wrap: break-word;
+  text-align: left;
+}
+.beauty_table tbody:nth-child(odd) { background: 	white; }
+.beauty_table tbody:nth-child(even) { background: 	#ededed; }
 
 /* font base */
 @font-face {
