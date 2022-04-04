@@ -36,8 +36,8 @@ $background-color: #fdfdfd !default;
   word-wrap: break-word;
   text-align: left;
 }
-.beauty_table tbody:nth-child(odd) { background: 	white; }
-.beauty_table tbody:nth-child(even) { background: 	#ededed; }
+.beauty_table tbody:nth-child(even) { background: 	white; }
+.beauty_table tbody:nth-child(odd) { background: 	#ededed; }
 
 /* font base */
 @font-face {

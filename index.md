@@ -7,6 +7,7 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 ## Important Dates
 <div markdown="1" class="beauty_table">
 
+| | |
 |:--- |---:|
 | Paper submission deadline | **May 05, 2022** |
 |:---|---:|
@@ -48,6 +49,7 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 ## Tentative program sketch
 <div markdown="1" class="beauty_table">
 
+| | |
 |:--- |---:|
 | First Invited Presentation | 45 mins |
 |:---|---:|
