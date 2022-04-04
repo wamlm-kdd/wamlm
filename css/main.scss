@@ -20,7 +20,12 @@ $background-color: #fdfdfd !default;
   width: 100%;
 }
 .beauty_table table {
-  width: 80%;
+  width: 100%;
+}
+@media (min-width: 62rem) {
+  .beauty_table table {
+    width: 80%;
+  }
 }
 .beauty_table tr {
   word-wrap: break-word;
@@ -77,7 +82,6 @@ $on-laptop:        800px !default;
     @content;
   }
 }
-
 // Import partials.
 @import
   "base",
