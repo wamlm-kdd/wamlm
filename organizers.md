@@ -10,6 +10,6 @@
 | | |
 | |**Amit Mandelbaum** is a Director of Data Science at Nvidia Networking Business Unit (formerly Mellanox) where he is leading a cross-organizatiol group in charge of all AI activities inside the business unit. Prior to that Amit was the leading data scientist at Imubit, leading all AI activities in the company and leading its product from idea to 10M$ ARR in revenues. Amit is also the founder and co-leader of JerusML, Jerusalem’s AI and largest tech community. Amit published papers in several conferences, including AAAI, GECCO, IntelliSys, ISPA and more. Amit holds an M.Sc. (with honors) in Computer Science from the Hebrew University. |
 | | |
-| <img width="60%" src="images/irina.jpeg"/>  | **Irina Vasilinetc** is a Senior Manager in Meta. Irina supports WhatsApp Integrity team in London UK. She started her career in Meta in Silicon valley as a software engineer 6 years ago, and grew to a Senior Manager by building from scratch a new machine learning org WhatsApp London. |
+| <img width="60%" src="images/irina.jpeg"/>  | **Irina Vasilinetc** is a Senior Manager in Meta. Irina supports WhatsApp Integrity team in London UK. |
 
 </div>
