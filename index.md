@@ -9,9 +9,9 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 | | |
 |:--- |---:|
-| Paper submission deadline | **May 05, 2022** |
+| Paper submission deadline | **May 26, 2022** |
 |:---|---:|
-| Notification of acceptance | June 01, 2022 |
+| Notification of acceptance | June 20, 2022 |
 |:---|---:|
 | Workshop on Applied Machine Learning Management    | August 15, 2022 |
 
@@ -44,7 +44,7 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 ## Invited speakers
 **TODO**
-  
+
 ## Submission Instructions
 **TODO**
 
