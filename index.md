@@ -53,15 +53,15 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 | | |
 |:--- |---:|
-| First Invited Presentation | 45 mins |
+| 1st Invited Presentation | 45 mins |
 |:---|---:|
-| Two Contributed Presentations | 30 mins |
+| 3 Contributed Presentations | 30 mins |
 |:---|---:|
 | Coffee Break | 15 mins |
 |:---|---:|
-| Second Invited Presentation| 45 mins |
+| 2nd Invited Presentation| 45 mins |
 |:---|---:|
-| Two Contributed Presentations | 30 mins |
+| 3 Contributed Presentations | 30 mins |
 |:---|---:|
 | Coffee Break | 15 mins |
 |:---|---:|
