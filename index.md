@@ -13,7 +13,7 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 |:---|---:|
 | Notification of acceptance | June 01, 2022 |
 |:---|---:|
-| Workshop on Applied Machine Learning Management    | July 15, 2022 |
+| Workshop on Applied Machine Learning Management    | August 15, 2022 |
 
 </div>
 
