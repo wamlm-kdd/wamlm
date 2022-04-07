@@ -42,7 +42,9 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
   - Knowledge management
   - ML assets management
 
-
+## Invited speakers
+**TODO**
+  
 ## Submission Instructions
 **TODO**
 
