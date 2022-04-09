@@ -35,9 +35,9 @@ We solicit **position papers** & **talk proposals** for the plenary talks sessio
 - An explanation about relevance to the workshop
 - References to any existing public materials by the authors on the discussed topic
 
-Proposals should be submitted electronically by May 26th via Easychair:
+Proposals should be submitted electronically by May 26th via [Easychair](https://easychair.org/my/conference?conf=wamlmkdd22):
 
-https://easychair.org/my/conference?conf=wamlmkdd22
+[https://easychair.org/my/conference?conf=wamlmkdd22](https://easychair.org/my/conference?conf=wamlmkdd22)
 
 
   
