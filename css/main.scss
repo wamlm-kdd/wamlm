@@ -16,15 +16,27 @@ $background-color: #fdfdfd !default;
   margin: auto;
 }
 
+.speaker_image {
+  width: 25%;
+  float: left;
+  margin-right: 5px;
+}
+
 .beauty_table {
   width: 100%;
 }
 .beauty_table table {
   width: 100%;
 }
+
 @media (min-width: 62rem) {
   .beauty_table table {
     width: 80%;
+  }
+  .speaker_image {
+    width: 15%;
+    float: left;
+    margin-right: 20px;
   }
 }
 .beauty_table tr {
