@@ -71,7 +71,7 @@ Proposals should be submitted electronically by May 26th via [Easychair](https:/
 ## Invited speakers
 
 
-<div markdown="1" class="div_main">  
+<div markdown="1" class="div_speaker">  
   
 | | |
 |:--- |:---|
