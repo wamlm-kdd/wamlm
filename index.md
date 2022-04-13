@@ -19,6 +19,7 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 </div>
 
+  
  ## Call for Papers
   
 The workshop focuses on main aspects of a successful ML resource management: project lifecycle, people management and ML quality and excellence. We focus on a combination of soft skills applications along with data-driven and empirical approaches to efficiently resolve ML management challenges.
