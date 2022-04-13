@@ -22,6 +22,10 @@ $background-color: #fdfdfd !default;
   margin-right: 5px;
 }
 
+.organizer_image {
+  width: 90%;
+}
+
 .beauty_table {
   width: 100%;
 }
@@ -37,6 +41,9 @@ $background-color: #fdfdfd !default;
     width: 15%;
     float: left;
     margin-right: 20px;
+  }
+  .organizer_image {
+    width: 60%;
   }
 }
 .beauty_table tr {
