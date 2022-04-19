@@ -70,7 +70,7 @@ Proposals should be submitted electronically by May 26th via [Easychair](https:/
 
 ## Invited speakers
 
-#### Shiv Vitaladevuni, Amazon, Director of Alexa AI Reserch in Perceptual Technologies.
+#### Shiv Vitaladevuni, Amazon, Director of Alexa AI Research in Perceptual Technologies.
 
 <img class="speaker_image" src="images/shiv_speaker.jpeg"/>
 
