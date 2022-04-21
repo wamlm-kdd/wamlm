@@ -18,7 +18,10 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 | Workshop on Applied Machine Learning Management    | August 15, 2022 |
 
 </div>
+## How to attend?
 
+The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING that will happen in Washington DC Convention Center August 14-18, 2022, more information can be found on the official site of the conference: https://kdd.org/kdd2022/. In order to attend the workshop you need to register to the main conference. Registration will open soon. You don't need to submit a paper if you want to attend. The conference will be in person.
+  
 ## Call for Papers
 
 The workshop focuses on main aspects of a successful ML resource management: project lifecycle, people management and ML quality and excellence. We focus on a combination of soft skills applications along with data-driven and empirical approaches to efficiently resolve ML management challenges.
@@ -67,6 +70,11 @@ Proposals should be submitted electronically by May 26th via [Easychair](https:/
   - Best practices in ML workflow
   - Knowledge management
   - ML assets management
+- **ML as a product** 
+  - How to make a successful product from ML tech
+  - Challenges of measuring value of ML
+  - Stages of ML product development
+
 
 ## Invited speakers
 
