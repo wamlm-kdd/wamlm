@@ -12,4 +12,7 @@
 | | |
 | <img class="organizer_image" src="images/irina.jpeg"/>  | **Irina Vasilinetc** is a Senior Manager in Meta. Irina supports WhatsApp Integrity team in London UK. Irina has several publications in statistics and bioinformatics. |
 
+| | |
+| <img class="organizer_image" src="images/ankit.jpeg"/>  | **Ankit Jain** is a  Research Science Manager in Meta. He leads a team of ML scientists/engineers to detect harmful actors on Meta platforms using advanced deep learning techniques. Previously, he was a ML researcher at Uber AI where he worked on application of deep learning methods to different problems ranging from food delivery, fraud detection to self-driving cars. He was named as one of top 40under40 Data Scientists 2022 by Analytics India Magazine. He has co-authored a best selling book on machine learning titled TensorFlow Machine Learning Projects. Additionally, he’s been a featured speaker in many of the top AI conferences and universities and has published papers in several top conferences like Neurips, ICLR. |
+
 </div>
