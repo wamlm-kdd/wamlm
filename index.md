@@ -23,16 +23,16 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING that will happen in Washington DC Convention Center August 14-18, 2022, more information can be found on the official site of the conference: https://kdd.org/kdd2022/. In order to attend the workshop you need to register to the main conference. Registration will open soon. You don't need to submit a paper if you want to attend. The conference will be in person.
   
-## Call for Papers
+## Call for talk proposals
 
 The workshop focuses on main aspects of a successful ML resource management: project lifecycle, people management and ML quality and excellence. We focus on a combination of soft skills applications along with data-driven and empirical approaches to efficiently resolve ML management challenges.
 
-The ML projects life-cycle management include research resources allocation and collaboration with product development, to achieve innovative and applicable outcomes. We solicit work presenting real case-studies and high level working model proposals. At the same time, the people management aspects include the unique properties of ML talents and the specific challenges in building AI organisations, fostering research culture and growing research driven individuals in a business driven environment.  Finally, the ML excellence topic include aspects of high-quality ML models and working processes, together with tooling and best practices to ensure them.
+The ML projects life-cycle management include research resources allocation and collaboration with product development, to achieve innovative and applicable outcomes. We solicit presenting real case-studies and high level working model proposals. At the same time, the people management aspects include the unique properties of ML talents and the specific challenges in building AI organisations, fostering research culture and growing research driven individuals in a business driven environment.  Finally, the ML excellence topic include aspects of high-quality ML models and working processes, together with tooling and best practices to ensure them.
 
-We solicit **position papers** & **talk proposals** for the plenary talks session. The proposals should be 1-4 pages and follow the [ACM proceeding template](https://www.acm.org/publications/proceedings-template) (use the ˮsigconf” proceedings template).
+We solicit **talk proposals** for the plenary talks session. The proposals should be 0.25-1 page and follow the [ACM proceeding template](https://www.acm.org/publications/proceedings-template) (use the ˮsigconf” proceedings template).
  We also invite **panel round-table** discussion proposals. Please include in the submission:
 
-- Title, abstract, main body of proposal
+- Title, abstract, main body of the talk proposal or round table proposal
 - A brief company or project portrait (~60 words)
 - A short bio of the main presenter (~100 words)
 - Potential discussion points
