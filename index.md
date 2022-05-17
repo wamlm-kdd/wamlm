@@ -29,15 +29,18 @@ The workshop focuses on main aspects of a successful ML resource management: pro
 
 The ML projects life-cycle management include research resources allocation and collaboration with product development, to achieve innovative and applicable outcomes. We solicit presenting real case-studies and high level working model proposals. At the same time, the people management aspects include the unique properties of ML talents and the specific challenges in building AI organisations, fostering research culture and growing research driven individuals in a business driven environment.  Finally, the ML excellence topic include aspects of high-quality ML models and working processes, together with tooling and best practices to ensure them.
 
-We solicit **talk proposals** for the plenary talks session. The proposals should be 0.25-1 page and follow the [ACM proceeding template](https://www.acm.org/publications/proceedings-template) (use the ˮsigconf” proceedings template).
- We also invite **panel round-table** discussion proposals. Please include in the submission:
+We solicit **talk proposals** for the plenary talks session. The proposals should be 0.25-1 page. We also invite **panel round-table** discussion proposals. Please include in the submission:
 
-- Title, abstract, main body of the talk proposal or round table proposal
-- A brief company or project portrait (~60 words)
-- A short bio of the main presenter (~100 words)
-- Potential discussion points
-- An explanation about relevance to the workshop
-- References to any existing public materials by the authors on the discussed topic
+- Description of the talk/panel discussion:
+  - Title
+  - Abstract of the talk proposal or round table proposal
+  - Potential discussion points
+  - An explanation about relevance of this talk/panel discussion to the workshop
+- Infor about the presenter: 
+  - A short bio of the main presenter (~100 words)
+  - A brief company or project portrait (~60 words)
+- Optional:
+  - References to any existing public materials by the authors on the discussed topic
 
 Proposals should be submitted electronically by May 26th via [Easychair](https://easychair.org/my/conference?conf=wamlmkdd22):
 
