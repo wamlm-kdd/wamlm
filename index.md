@@ -18,11 +18,11 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 | Workshop on Applied Machine Learning Management    | August 15, 2022 |
 
 </div>
-  
+
 ## How to attend
 
 The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING that will happen in Washington DC Convention Center August 14-18, 2022, more information can be found on the official site of the conference: https://kdd.org/kdd2022/. In order to attend the workshop you need to register to the main conference. Registration will open soon. You don't need to submit a paper if you want to attend. The conference will be in person.
-  
+
 ## Call for talk proposals
 
 The workshop focuses on main aspects of a successful ML resource management: project lifecycle, people management and ML quality and excellence. We focus on a combination of soft skills applications along with data-driven and empirical approaches to efficiently resolve ML management challenges.
@@ -36,7 +36,7 @@ We solicit **talk proposals** for the plenary talks session. The proposals shoul
   - Abstract of the talk proposal or round table proposal
   - Potential discussion points
   - An explanation about relevance of this talk/panel discussion to the workshop
-- Infor about the presenter: 
+- Infor about the presenter:
   - A short bio of the main presenter (~100 words)
   - A brief company or project portrait (~60 words)
 - Optional:
@@ -74,7 +74,7 @@ Proposals should be submitted electronically by May 26th via [Easychair](https:/
   - Best practices in ML workflow
   - Knowledge management
   - ML assets management
-- **ML as a product** 
+- **ML as a product**
   - How to make a successful product from ML tech
   - Challenges of measuring value of ML
   - Stages of ML product development
@@ -88,6 +88,19 @@ Proposals should be submitted electronically by May 26th via [Easychair](https:/
 
 Shiv Vitaladevuni is a Director in Applied Sciences at Amazon Alexa, leading one of the speech and ML organizations. His organization’s mission is to make Alexa more perceptive and contextually aware so that Alexa is better able to determine when and how to help customers. They develop technologies such as wakeword, acoustic event detection, speaker understanding and paralinguistics, used by millions of customers across the globe. Consisting of 150+ scientists and engineers, the team brings together expertise in speech and ML science and engineering, embedded and cloud services, deep learning, signal processing, large scale data analytics. The team emphasizes close collaboration between science and engineering, executing on high risk R&D efforts to deliver state-of-the-art ML products to our customers, and technical excellence to build high availability ML systems and services.
 
+#### Ashok N. Srivastava, Intuit, Senior Vice President and Chief Data Officer.
+
+<img class="speaker_image" src="images/Ashok Srivastava.jpeg"/>
+
+Ashok N. Srivastava, Ph.D. is the Senior Vice President and Chief Data Officer at Intuit. He is responsible for setting the vision and direction for AI and Data across Intuit to power prosperity across the world. He is an Adjunct Professor at Stanford and a member of the Board of Directors of the University of Colorado Foundation.  He serves on a committee for the National Academy of Science, Engineering, and Medicine on a Congressionally mandated study on  Emerging Trends in Aviation Safety.  Ashok is a Fellow of the IEEE, the American Association for the Advancement of Science (AAAS), and the American Institute of Aeronautics and Astronautics (AIAA).
+
+Previously, he was the VP of Big Data and Artificial Intelligence Systems and the Chief Data Scientist at Verizon.  His global team focused on building new revenue-generating products and services powered by big data and artificial intelligence.  He is the founder and former Editor-in-Chief of the AIAA Journal of Aerospace Information Systems.
+
+At NASA, he led advanced technology programs in Aerospace, Space Systems, and Earth and Space Sciences including the System-wide Safety and Assurance Technology and the Integrated Vehicle Health Management programs.  He served as a Venture Advisor focusing on big-data analytics at Trident Capital, and was on the advisory board of several startups.
+
+Ashok is the author of over 100 research articles in data mining, machine learning, and text mining, and has edited four books in these subjects:  Text Mining: Classification, Clustering, and Applications, Advances in Machine Learning and Data Mining for Astronomy,  Machine Learning for Engineering Systems Health Management, and Large-Scale Machine Learning in the Earth Sciences.
+
+He has over 30 patents awarded and several under file. He has won numerous awards including the IEEE Computer Society Technical Achievement Award for “pioneering contributions to intelligent information systems,” the NASA Exceptional Achievement Medal for contributions to state-of-the-art data mining and analysis, the NASA Honor Award for Outstanding Leadership, the NASA Distinguished Performance Award, several NASA Group Achievement Awards, the Distinguished Engineering Alumni Award from UC Boulder, the IBM Golden Circle Award, and the Department of Education Merit Fellowship.
 
 ## Tentative program sketch
 <div markdown="1" class="beauty_table">
