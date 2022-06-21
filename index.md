@@ -107,23 +107,21 @@ He has over 30 patents awarded and several under file. He has won numerous award
 
 | | |
 |:--- |---:|
-| Introduction | 10 mins |
-|:--- |---:|
-| 1st Invited Presentation | 30 mins |
+| 1st Invited Presentation | 13.00 -13.30 (30 mins) |
 |:---|---:|
-| Contributed Presentations | 45 mins |
+| 2nd Invited Presentation | 13.30 - 14.00 (30 mins) |
 |:---|---:|
-| Coffee Break | 15 mins |
+| Coffee Break | 14.00 - 14.15 (10 mins) |
 |:---|---:|
-| 2nd Invited Presentation| 30 mins |
+| Contributed Presentations| 14.15 - 15.00 (45 mins) |
 |:---|---:|
-|Contributed Presentations | 45 mins |
+|Round-table discussions | 15.00 - 15.45 (45 mins) |
 |:---|---:|
-| Coffee Break | 15 mins |
+| Coffee Break | 15.45 - 16.00 (15 mins) |
 |:---|---:|
-| Round-table discussions| 45 mins |
+| Contributed Presentations| 16.00 - 16.45 (45 mins) |
 |:---|---:|
-| Closing Remarks | 5 mins |
+| Closing Remarks | 16.45 - 17.00 (15 mins) |
 
 
 ## Presentation and publication
