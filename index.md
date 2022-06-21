@@ -111,7 +111,7 @@ He has over 30 patents awarded and several under file. He has won numerous award
 |:---|---:|
 | 2nd Invited Presentation | 13.30 - 14.00 (30 mins) |
 |:---|---:|
-| Coffee Break | 14.00 - 14.15 (10 mins) |
+| Coffee Break | 14.00 - 14.15 (15 mins) |
 |:---|---:|
 | Contributed Presentations| 14.15 - 15.00 (45 mins) |
 |:---|---:|
