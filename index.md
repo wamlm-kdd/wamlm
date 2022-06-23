@@ -15,7 +15,7 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 |:---|---:|
 | Notification of acceptance | June 20, 2022 |
 |:---|---:|
-| Workshop on Applied Machine Learning Management    | August 15, 2022 |
+| Workshop on Applied Machine Learning Management    | 13.00 - 17.00 August 15, 2022 |
 
 </div>
 
@@ -107,9 +107,9 @@ He has over 30 patents awarded and several under file. He has won numerous award
 
 | | |
 |:--- |---:|
-| 1st Invited Presentation | 13.00 -13.30 (30 mins) |
+| Invited talk: Shiv Vitaladevuni, Director of Alexa AI Research  | 13.00 -13.30 (30 mins) |
 |:---|---:|
-| 2nd Invited Presentation | 13.30 - 14.00 (30 mins) |
+| Invited talk: Ashok N. Srivastava, Intuit, Senior Vice President and Chief Data Officer | 13.30 - 14.00 (30 mins) |
 |:---|---:|
 | Coffee Break | 14.00 - 14.15 (15 mins) |
 |:---|---:|
