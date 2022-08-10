@@ -102,36 +102,47 @@ Ashok is the author of over 100 research articles in data mining, machine learni
 
 He has over 30 patents awarded and several under file. He has won numerous awards including the IEEE Computer Society Technical Achievement Award for “pioneering contributions to intelligent information systems,” the NASA Exceptional Achievement Medal for contributions to state-of-the-art data mining and analysis, the NASA Honor Award for Outstanding Leadership, the NASA Distinguished Performance Award, several NASA Group Achievement Awards, the Distinguished Engineering Alumni Award from UC Boulder, the IBM Golden Circle Award, and the Department of Education Merit Fellowship.
 
-## Tentative program sketch
+## Tentative Program
 <div markdown="1" class="beauty_table">
 
 | | |
 |:--- |---:|
-| Invited talk: Shiv Vitaladevuni, Director of Alexa AI Research  | 13.00 -13.30 (30 mins) |
+| Opening Remarks | 13.00 - 13.15 (15 mins) |
+|:--- |---:|
+| Invited talk: Shiv Vitaladevuni, Director of Alexa AI Research  | 13.15 - 13.45 (30 mins) |
 |:---|---:|
-| Invited talk: Ashok N. Srivastava, Intuit, Senior Vice President and Chief Data Officer | 13.30 - 14.00 (30 mins) |
+| Invited talk: Ashok N. Srivastava, Intuit, Senior VP and Chief Data Officer | 13.45 - 14.15 (30 mins) |
 |:---|---:|
-| Coffee Break | 14.00 - 14.15 (15 mins) |
+| Coffee Break and registration for round tables| 14.15 - 14.30 (15 mins) |
 |:---|---:|
-| Contributed Presentations| 14.15 - 15.00 (45 mins) |
+| Machine Learning Research Phase Tracking with Hypotheses Graphs (Yongzhi Ong and Vincent Pollet) | 14.30 - 14.45 (15 mins) |
 |:---|---:|
-|Round-table discussions | 15.00 - 15.45 (45 mins) |
+| An Innovation Funnel for Machine Learning Projects (Vatche Isahagian, Yara Rizk, Vinod Muthusamy, Merve Unuvar and Ayhan Sebi) | 14.45 - 15.00 (15 mins) |
 |:---|---:|
-| Coffee Break | 15.45 - 16.00 (15 mins) |
+| Effective ML asset management using AIML Service Kits and achieving organizational excellence (Ashish Kumar Balla and Nitin Aggarwal) | 15.00 - 15.15 (15 mins) |
 |:---|---:|
-| Contributed Presentations| 16.00 - 16.45 (45 mins) |
+| Coffee Break | 15.15 - 15.30 (15 mins) |
 |:---|---:|
-| Closing Remarks | 16.45 - 17.00 (15 mins) |
-
-
-## Presentation and publication
-The presentation format of the Symposium will be decided based on submissions and interest to the wider community, and is likely to be a mix of short and long presentations as well as panels. A condition of acceptance is that at least one author commits to attend KDD 2022 and the workshop (in-person or virtual) to present the work. The authors of accepted proposals will be invited to submit a camera ready copy to be included in the website.
-
- Contact: [wamlm.kdd@gmail.com](mailto:wamlm.kdd@gmail.com)
-
-
-
+|Round-table discussions | 15.30 - 16.15 (45 mins) |
+|:---|---:|
+| Stakeholder and Team Management in Data Science: Principles and Practical Tips (Hrishikesh Vidyadhar Ganu and Mohak Sukhwani) | 16.15 - 16.30 (15 mins) |
+|:---|---:|
+| Comparing Model Development Practices in B2B vs B2C Machine Learning Teams (Saloni Potdar and Navneet Rao) | 16.30 - 16.45 (15 mins) |
+|:---|---:|
+| Closing Remarks | 16.45 - 16.50 (5 mins) |
 
 </div>
+
+#### Round-table discussions
+
+- How to successfully introduce ML to new orgs
+- Building new ML teams
+- Industry vs research
+- Scrum in ML
+- ML main pitfals/challenges
+- ML for business optimization
+
+
+
 </div>
 </div>
