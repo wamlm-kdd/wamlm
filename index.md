@@ -135,13 +135,12 @@ He has over 30 patents awarded and several under file. He has won numerous award
 
 #### Round-table discussions
 
-- How to successfully introduce ML to new orgs
-- Building new ML teams
-- Industry vs research
-- Scrum in ML
-- ML main pitfals/challenges
-- ML for business optimization
-
+- How to successfully introduce ML to new orgs. *Presenters: Mingwei Shen and Ofri Mann*
+- Building new ML teams. *Presenters: Lory Nunez*
+- Industry vs research. *Presenters: Sarah Campbell*
+- Scrum in ML. *Presenters: Ashish Bansal and Vijay Morampudi*
+- ML main pitfals/challenges. *Presenters: Muna Abdelrahim and Polina Reshetova*
+- ML for business optimization. *Presenters: Gerben Oostra*
 
 
 </div>
