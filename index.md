@@ -109,9 +109,9 @@ He has over 30 patents awarded and several under file. He has won numerous award
 |:--- |---:|
 | Opening Remarks | 13.00 - 13.15 (15 mins) |
 |:--- |---:|
-| Invited talk: Shiv Vitaladevuni, Director of Alexa AI Research  | 13.15 - 13.45 (30 mins) |
+| Invited talk: Ashok N. Srivastava, Intuit, Senior VP and Chief Data Officer | 13.15 - 13.45 (30 mins) |
 |:---|---:|
-| Invited talk: Ashok N. Srivastava, Intuit, Senior VP and Chief Data Officer | 13.45 - 14.15 (30 mins) |
+| Invited talk: Shiv Vitaladevuni, Director of Alexa AI Research  | 13.45 - 14.15 (30 mins) |
 |:---|---:|
 | Coffee Break and registration for round tables| 14.15 - 14.30 (15 mins) |
 |:---|---:|
@@ -135,12 +135,12 @@ He has over 30 patents awarded and several under file. He has won numerous award
 
 #### Round-table discussions
 
-- How to successfully introduce ML to new orgs. *Presenters: Mingwei Shen and Ofri Mann*
+- How to successfully introduce ML to new orgs. *Presenters: Mingwei Shen, Ofri Mann and Yevgeny Tkach*
 - Building new ML teams. *Presenters: Lory Nunez*
 - Industry vs research. *Presenters: Sarah Campbell*
-- Scrum in ML. *Presenters: Ashish Bansal and Vijay Morampudi*
-- ML main pitfals/challenges. *Presenters: Muna Abdelrahim and Polina Reshetova*
-- ML for business optimization. *Presenters: Gerben Oostra*
+- Scrum in ML. *Presenters: Ashish Bansal, Mark Ally and Vijay Morampudi*
+- ML main pitfals/challenges. *Presenters: Muna Abdelrahim, Tor Kwembe and Polina Reshetova*
+- ML for business optimization. *Presenters: Gerben Oostra, Hanan Shteingart*
 
 
 </div>
