@@ -135,7 +135,7 @@ He has over 30 patents awarded and several under file. He has won numerous award
 
 #### Round-table discussions
 
-- How to successfully introduce ML to new orgs. *Presenters: Mingwei Shen, Ofri Mann and Aner Hamada*
+- How to successfully introduce ML to new orgs. *Presenters: Mingwei Shen, Ofri Mann and Aner Hamama*
 - Building new ML teams. *Presenters: Lory Nunez*
 - Industry vs research. *Presenters: Sarah Campbell*
 - Scrum in ML. *Presenters: Ashish Bansal, Mark Ally and Vijay Morampudi*
