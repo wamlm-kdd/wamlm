@@ -11,17 +11,17 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 | | |
 |:--- |---:|
-| Paper submission deadline | **May 26, 2022** |
+| Paper submission deadline | ** XXX, 2023** |
 |:---|---:|
-| Notification of acceptance | June 20, 2022 |
+| Notification of acceptance | XXX , 2023 |
 |:---|---:|
-| Workshop on Applied Machine Learning Management    | 13.00 - 17.00 August 15, 2022 |
+| Workshop on Applied Machine Learning Management    | XXX, 2023 |
 
 </div>
 
 ## How to attend
 
-The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING that will happen in Washington DC Convention Center August 14-18, 2022, more information can be found on the official site of the conference: https://kdd.org/kdd2022/. In order to attend the workshop you need to register to the main conference. Registration will open soon. You don't need to submit a paper if you want to attend. The conference will be in person.
+The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING that will happen in Long Beach Convention & Entertainment center 6-10 August, 2023, more information can be found on the official site of the conference: https://kdd.org/kdd2023/. In order to attend the workshop you need to register to the main conference. Registration will open soon. You don't need to submit a paper if you want to attend. The conference will be in person.
 
 ## Call for talk proposals
 
