@@ -42,9 +42,7 @@ We solicit **talk proposals** for the plenary talks session. The proposals shoul
 - Optional:
   - References to any existing public materials by the authors on the discussed topic
 
-Proposals should be submitted electronically by May 26th via [Easychair](https://easychair.org/my/conference?conf=wamlmkdd22):
-
-[https://easychair.org/my/conference?conf=wamlmkdd22](https://easychair.org/my/conference?conf=wamlmkdd22)
+Proposals should be submitted electronically by TBD via Easychair. Link for submission will be available soon.
 
 
 
