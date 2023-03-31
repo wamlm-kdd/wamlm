@@ -97,9 +97,9 @@ We are finalising list of invited speakers and will publish it soon.
 |:---|---:|
 | Talks session 1 | 45 mins |
 |:---|---:|
-| Coffee Break | 15.15 - 15.30 (15 mins) |
+| Coffee Break | 15 mins |
 |:---|---:|
-|Round-table discussions | 15.30 - 16.15 (45 mins) |
+|Round-table discussions | 45 mins |
 |:---|---:|
 | Talks session 2 | 30 mins |
 |:---|---:|
