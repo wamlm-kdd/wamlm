@@ -11,11 +11,11 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 | | |
 |:--- |---:|
-| Paper submission deadline | TBD 2023 |
+| Paper submission deadline | May 23rd, 2023 |
 |:---|---:|
-| Notification of acceptance | TBD , 2023 |
+| Notification of acceptance | June 23rd, 2023 |
 |:---|---:|
-| Workshop on Applied Machine Learning Management    | TBD, 2023 |
+| Workshop on Applied Machine Learning Management    | Most workshops are scheduled on 8/7/2023 with a few exceptions on 8/8/2023 |
 
 </div>
 
