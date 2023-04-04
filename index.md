@@ -76,6 +76,9 @@ Proposals should be submitted electronically by TBD via Easychair. Link for subm
   - How to make a successful product from ML tech
   - Challenges of measuring value of ML
   - Stages of ML product development
+ - **Generative AI for ML managment
+  - GenAI tools for team managment
+  - GenAI effects on delivery and time managment
 
 
 ## Invited speakers
