@@ -11,7 +11,7 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 | | |
 |:--- |---:|
-| Paper submission deadline | May 23rd, 2023 |
+  | <a href="https://easychair.org/conferences/submission_new?a=30728938"> Paper submission </a> deadline | May 23rd, 2023 |
 |:---|---:|
 | Notification of acceptance | June 23rd, 2023 |
 |:---|---:|
@@ -42,7 +42,7 @@ We solicit **talk proposals** for the plenary talks session. The proposals shoul
 - Optional:
   - References to any existing public materials by the authors on the discussed topic
 
-Proposals should be submitted electronically by TBD via Easychair. Link for submission will be available soon.
+Proposals should be submitted electronically via Easychair in the <a href="https://easychair.org/conferences/submission_new?a=30728938"> following link  </a>. Please indicate if you are submitting for a talk, a roundtable. The organizers reserve the right to reassign a talk to roundtable discussion.
 
 
 
