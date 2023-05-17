@@ -29,7 +29,7 @@ The workshop focuses on main aspects of a successful ML resource management: pro
 
 The ML projects life-cycle management include research resources allocation and collaboration with product development, to achieve innovative and applicable outcomes. We solicit presenting real case-studies and high level working model proposals. At the same time, the people management aspects include the unique properties of ML talents and the specific challenges in building AI organisations, fostering research culture and growing research driven individuals in a business driven environment.  Finally, the ML excellence topic include aspects of high-quality ML models and working processes, together with tooling and best practices to ensure them.
 
-We solicit **talk proposals** for the plenary talks session. The proposals should be 0.25-1 page. We also invite **panel round-table** discussion proposals. Please include in the submission:
+We solicit **talk proposals** for the plenary talks session. The proposals should be 0.5-4 pages. We also invite **panel round-table** discussion proposals. Please include in the submission:
 
 - Description of the talk/panel discussion:
   - Title
@@ -42,7 +42,7 @@ We solicit **talk proposals** for the plenary talks session. The proposals shoul
 - Optional:
   - References to any existing public materials by the authors on the discussed topic
 
-Proposals should be submitted electronically via Easychair in the <a href="https://easychair.org/conferences/submission_new?a=30728938"> following link  </a>. Please indicate if you are submitting for a talk, a roundtable. The organizers reserve the right to reassign a talk to roundtable discussion.
+Proposals should be submitted electronically via Easychair in the <a href="https://easychair.org/conferences/submission_new?a=30728938"> following link  </a>. Please indicate if you are submitting for a talk, a roundtable. The organizers reserve the right to reassign a talk to roundtable discussion. The review process is single-blind, therefore please include the author details in the submission.
 
 
 
