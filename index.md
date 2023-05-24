@@ -11,9 +11,9 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 | | |
 |:--- |---:|
-  | <a href="https://easychair.org/conferences/?conf=wamlmkdd23"> Paper submission </a> deadline | May 23rd, 2023 |
+  | <a href="https://easychair.org/conferences/?conf=wamlmkdd23"> Paper submission </a> deadline | June 6th, 2023 |
 |:---|---:|
-| Notification of acceptance | June 23rd, 2023 |
+| Notification of acceptance | June 30th, 2023 |
 |:---|---:|
 | Workshop on Applied Machine Learning Management    | Most workshops are scheduled on 8/7/2023 with a few exceptions on 8/8/2023 |
 
