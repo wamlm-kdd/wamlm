@@ -73,4 +73,3 @@ CJ Taylor is a Director in Applied Sciences at Amazon’s AWS AI Labs, where he 
 - Best Practices for Testing and Validating Machine Learning. *Presenters: Philip Tannor*
 </div>
 </div>
-</div>
