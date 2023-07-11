@@ -27,27 +27,27 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 <div markdown="1" class="schedule_table">
 
 | | |
-|:--- |:--|
+|:--- |:---|
 | `8.00-8.15` <br /> (15 mins)| Opening Remarks |
-|:--- |:--|
+|:--- |:---|
 | `8.15-8.45` <br /> (30 mins) | Invited talk: Nhung Ho, Intuit, Vice President of Artificial Intelligence |
-|:--- |:--|
+|:--- |:---|
 | `8.45-9.15` <br />(30 mins) | Invited talk: CJ Taylor, Amazon, Director of Applied Science (AWS Rekognition, Textract) |
-|:--- |:--|
+|:--- |:---|
 | `9.15-9.30` <br />(15 mins) | Coffee Break and registration for round tables |
-|:--- |:--|
+|:--- |:---|
 | `9.30-9.45` <br />(15 mins) | Exploring the Trade-Off: Centralized vs Embedded Models for ML Scientists (Matteo Ruffini and Joos-Hendrik Boese) |
-|:--- |:--|
+|:--- |:---|
 | `9.45-10.00` <br />(15 mins) | The Art of Building ML as a Product: Key Learnings and Strategies (Shashank Shashikant Rao) |
-|:--- |:--|
+|:--- |:---|
 | `10.00 - 10.15` <br /> (15 mins) | Onebrain — microprojects for data science <br/> (Daniel Miller, Alex Deng, Narek Amirbekian, Navin Sivanandam and Rodolfo Carboni) |
-|:--- |:--|
+|:--- |:---|
 | `10.15-10.30` <br />(15 mins) | Coffee Break |
-|:--- |:--|
+|:--- |:---|
 |`10.30-11.30` <br />(60 mins) | Round-table discussions |
-|:--- |:--|
+|:--- |:---|
 | `11.30-11.45` <br /> (15 mins) | Achieving ML Reliability at Scale - Learnings and Opportunities (Ritu Singh and Namit Gupta) |
-|:--- |:--|
+|:--- |:---|
 | `11.45-11.50` <br /> (5 mins) | Closing Remarks |
 
 </div>
