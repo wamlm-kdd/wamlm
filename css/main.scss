@@ -11,7 +11,7 @@ $headings-color: #111;
 $background-color: #fdfdfd !default;
 
 .div_main {
-  width: 80%;
+  width: 90%;
   text-align: left;
   margin: auto;
 }
@@ -27,16 +27,16 @@ $background-color: #fdfdfd !default;
   margin-right: 15px;
 }
 
-.beauty_table {
+.schedule_table {
   width: 100%;
 }
-.beauty_table table {
+.schedule_table table {
   width: 100%;
 }
 
 @media (min-width: 62rem) {
-  .beauty_table table {
-    width: 80%;
+  .schedule_table table {
+    width: 100%;
   }
   .speaker_image {
     width: 15%;
@@ -47,17 +47,17 @@ $background-color: #fdfdfd !default;
     width: 60%;
   }
 }
-.beauty_table tr {
+.schedule_table tr {
   word-wrap: break-word;
   text-align: center;
 }
 
-.beauty_table td {
+.schedule_table td {
   word-wrap: break-word;
   text-align: left;
 }
-.beauty_table tbody:nth-child(even) { background: 	white; }
-.beauty_table tbody:nth-child(odd) { background: 	#ededed; }
+.schedule_table tbody:nth-child(even) { background: 	white; }
+.schedule_table tbody:nth-child(odd) { background: 	#ededed; }
 
 /* font base */
 @font-face {
