@@ -36,19 +36,19 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 |:--- |:---|
 | `9.15-9.30` <br />(15 mins) | Coffee Break and registration for round tables |
 |:--- |:---|
-| `9.30-9.45` <br />(15 mins) | Exploring the Trade-Off: Centralized vs Embedded Models for ML Scientists (Matteo Ruffini and Joos-Hendrik Boese) |
+| `9.30-9.45` <br />(15 mins) | [Exploring the Trade-Off: Centralized vs Embedded Models for ML Scientists](papers/wamlm-kdd23_paper_matteo_ruffini.pdf)  (Matteo Ruffini and Joos-Hendrik Boese) |
 |:--- |:---|
-| `9.45-10.00` <br />(15 mins) | The Art of Building ML as a Product: Key Learnings and Strategies (Shashank Shashikant Rao) |
+| `9.45-10.00` <br />(15 mins) | [The Art of Building ML as a Product: Key Learnings and Strategies](papers/wamlm-kdd23_paper_Shashank_Shashikant_Rao.pdf) (Shashank Shashikant Rao) |
 |:--- |:---|
-| `10.00 - 10.15` <br /> (15 mins) | Onebrain — microprojects for data science <br/> (Daniel Miller, Alex Deng, Narek Amirbekian, Navin Sivanandam and Rodolfo Carboni) |
+| `10.00 - 10.15` <br /> (15 mins) | [Onebrain — microprojects for data science](papers/wamlm-kdd23_paper_Daniel_Miller.pdf) <br/> (Daniel Miller, Alex Deng, Narek Amirbekian, Navin Sivanandam and Rodolfo Carboni) |
 |:--- |:---|
 | `10.15-10.30` <br />(15 mins) | Coffee Break |
 |:--- |:---|
 |`10.30-11.15` <br />(45 mins) | Round-table discussions |
 |:--- |:---|
-| `11.15-11.30` <br /> (15 mins) | Achieving ML Reliability at Scale - Learnings and Opportunities (Ritu Singh and Namit Gupta) |
+| `11.15-11.30` <br /> (15 mins) | [Achieving ML Reliability at Scale - Learnings and Opportunities](papers/wamlm-kdd23_paper_Ritu_Singh.pdf) (Ritu Singh and Namit Gupta) |
 |:--- |:---|
-| `11.30-11.45` <br /> (15 mins) | Building and Leading a Team for Generative AI Product (Moran Beladev) |
+| `11.30-11.45` <br /> (15 mins) | [Building and Leading a Team for Generative AI Product](papers/wamlm-kdd23_paper_moran_beladev.pdf) (Moran Beladev) |
 |:--- |:---|
 | `11.45-11.50` <br /> (5 mins) | Closing Remarks |
 
@@ -68,10 +68,10 @@ CJ Taylor is a Director in Applied Sciences at Amazon’s AWS AI Labs, where he 
 
 ## Round-table discussions
 
-- Incorporating Advances in LLMs into the Machine Learning Lifecycle. *Presenters: Navneet Rao*
-- Unlocking Value with LLMs: A Roadmap from Concept to Production. *Presenters: Tal Peretz*
-- Perspectives on recurring challenges faced by ML product teams. *Presenters: Likhitha Patha and Nisarga Markandaiah*
-- The Science and Art of Driving Business Adoption of ML Models. *Presenters: Hrishikesh Vidyadhar Ganu and Mohak Sukhwani*
-- Best Practices for Testing and Validating Machine Learning. *Presenters: Philip Tannor*
-- Effective Management of Data Sources in Machine Learning. *Presenters: Kristina Fedorenko*
+- [Incorporating Advances in LLMs into the Machine Learning Lifecycle](papers/wamlm-kdd23_paper_Navneet_Rao.pdf). *Presenters: Navneet Rao*
+- [Unlocking Value with LLMs: A Roadmap from Concept to Production](papers/wamlm-kdd23_paper_Tal_Peretz.pdf). *Presenters: Tal Peretz*
+- [Perspectives on recurring challenges faced by ML product teams](papers/wamlm-kdd23_paper_Likhitha_Patha.pdf). *Presenters: Likhitha Patha and Nisarga Markandaiah*
+- [The Science and Art of Driving Business Adoption of ML Models](papers/wamlm-kdd23_paper_Hrishikesh_Vidyadhar.pdf). *Presenters: Hrishikesh Vidyadhar Ganu and Mohak Sukhwani*
+- [Best Practices for Testing and Validating Machine Learning](papers/wamlm-kdd23_paper_Philip_Tannor.pdf). *Presenters: Philip Tannor*
+- [Effective Management of Data Sources in Machine Learning](papers/wamlm-kdd23_paper_Kristina_Fedorenko.pdf). *Presenters: Kristina Fedorenko*
 </div>
