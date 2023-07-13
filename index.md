@@ -44,9 +44,11 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 |:--- |:---|
 | `10.15-10.30` <br />(15 mins) | Coffee Break |
 |:--- |:---|
-|`10.30-11.30` <br />(60 mins) | Round-table discussions |
+|`10.30-11.15` <br />(45 mins) | Round-table discussions |
 |:--- |:---|
-| `11.30-11.45` <br /> (15 mins) | Achieving ML Reliability at Scale - Learnings and Opportunities (Ritu Singh and Namit Gupta) |
+| `11.15-11.30` <br /> (15 mins) | Achieving ML Reliability at Scale - Learnings and Opportunities (Ritu Singh and Namit Gupta) |
+|:--- |:---|
+| `11.30-11.45` <br /> (15 mins) | Building and Leading a Team for Generative AI Product (Moran Beladev) |
 |:--- |:---|
 | `11.45-11.50` <br /> (5 mins) | Closing Remarks |
 
@@ -71,5 +73,5 @@ CJ Taylor is a Director in Applied Sciences at Amazon’s AWS AI Labs, where he 
 - Perspectives on recurring challenges faced by ML product teams. *Presenters: Likhitha Patha and Nisarga Markandaiah*
 - The Science and Art of Driving Business Adoption of ML Models. *Presenters: Hrishikesh Vidyadhar Ganu and Mohak Sukhwani*
 - Best Practices for Testing and Validating Machine Learning. *Presenters: Philip Tannor*
-</div>
+- Effective Management of Data Sources in Machine Learning. *Presenters: Kristina Fedorenko*
 </div>
