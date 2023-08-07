@@ -34,15 +34,13 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 |:--- |:---|
 | `8.45-9.15` <br />(30 mins) | Invited talk: CJ Taylor, Amazon, Director of Applied Science (AWS Rekognition, Textract) |
 |:--- |:---|
-| `9.15-9.30` <br />(15 mins) | Coffee Break and registration for round tables |
+| `9.15-9.30` <br />(15 mins) | [Exploring the Trade-Off: Centralized vs Embedded Models for ML Scientists](papers/wamlm-kdd23_paper_matteo_ruffini.pdf)  (Matteo Ruffini and Joos-Hendrik Boese) |
 |:--- |:---|
-| `9.30-9.45` <br />(15 mins) | [Exploring the Trade-Off: Centralized vs Embedded Models for ML Scientists](papers/wamlm-kdd23_paper_matteo_ruffini.pdf)  (Matteo Ruffini and Joos-Hendrik Boese) |
+| `9.30-10.00` <br />(30 mins) | Coffee Break and registration for round tables |
 |:--- |:---|
-| `9.45-10.00` <br />(15 mins) | [The Art of Building ML as a Product: Key Learnings and Strategies](papers/wamlm-kdd23_paper_Shashank_Shashikant_Rao.pdf) (Shashank Shashikant Rao) |
+| `10.00-10.15` <br />(15 mins) | [The Art of Building ML as a Product: Key Learnings and Strategies](papers/wamlm-kdd23_paper_Shashank_Shashikant_Rao.pdf) (Shashank Shashikant Rao) |
 |:--- |:---|
-| `10.00 - 10.15` <br /> (15 mins) | [Onebrain — microprojects for data science](papers/wamlm-kdd23_paper_Daniel_Miller.pdf) <br/> (Daniel Miller, Alex Deng, Narek Amirbekian, Navin Sivanandam and Rodolfo Carboni) |
-|:--- |:---|
-| `10.15-10.30` <br />(15 mins) | Coffee Break |
+| `10.15 - 10.30` <br /> (15 mins) | [Onebrain — microprojects for data science](papers/wamlm-kdd23_paper_Daniel_Miller.pdf) <br/> (Daniel Miller, Alex Deng, Narek Amirbekian, Navin Sivanandam and Rodolfo Carboni) |
 |:--- |:---|
 |`10.30-11.15` <br />(45 mins) | Round-table discussions |
 |:--- |:---|
