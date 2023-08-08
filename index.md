@@ -70,5 +70,5 @@ CJ Taylor is a Director in Applied Sciences at Amazon’s AWS AI Labs, where he 
 - [Unlocking Value with LLMs: A Roadmap from Concept to Production](papers/wamlm-kdd23_paper_Tal_Peretz.pdf). *Presenters: Tal Peretz*
 - [Perspectives on recurring challenges faced by ML product teams](papers/wamlm-kdd23_paper_Likhitha_Patha.pdf). *Presenters: Likhitha Patha and Nisarga Markandaiah*
 - [The Science and Art of Driving Business Adoption of ML Models](papers/wamlm-kdd23_paper_Hrishikesh_Vidyadhar.pdf). *Presenters: Hrishikesh Vidyadhar Ganu and Mohak Sukhwani*
-- [Effective Management of Data Sources in Machine Learning](papers/wamlm-kdd23_paper_Kristina_Fedorenko.pdf). *Presenters: Kristina Fedorenko*
+- [Effective Management of Data Sources in Machine Learning](papers/wamlm-kdd23_paper_Kristina_Fedorenko.pdf.pdf). *Presenters: Kristina Fedorenko*
 </div>
