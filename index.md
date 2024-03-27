@@ -11,17 +11,17 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 | | |
 |:--- |---:|
-| <a href="https://easychair.org/conferences/?conf=wamlmkdd23"> Paper submission </a> deadline | June 6th, 2023 |
+|  Paper submission deadline | May 28th, 2024 |
 |:---|---:|
-| Notification of acceptance | June 30th, 2023 |
+| Notification of acceptance | June 28th, 2024 |
 |:---|---:|
-| Workshop on Applied Machine Learning Management| August 7th 2023, 8am-12pm |
+| Workshop on Applied Machine Learning Management| August 26th 2024, 8am-12pm |
 
 </div>
 
 ## How to attend
 
-The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING that will happen in Long Beach Convention & Entertainment center 6-10 August, 2023, more information can be found on the official site of the conference: https://kdd.org/kdd2023/. In order to attend the workshop you need to register to the main conference. Registration will open soon. You don't need to submit a paper if you want to attend. The conference will be in person.
+The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING that will happen in Barcelona, August 26th, 2024, more information can be found on the official site of the conference: https://kdd.org/kdd2024/. In order to attend the workshop you need to register to the main conference. Registration will open soon. You don't need to submit a paper if you want to attend. The conference will be in person.
 
 ## 2023 Program
 <div markdown="1" class="schedule_table">
@@ -30,23 +30,23 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 |:--- |:---|
 | `8.00-8.15` <br /> (15 mins)| Opening Remarks |
 |:--- |:---|
-| `8.15-8.45` <br /> (30 mins) | Invited talk: Nhung Ho, Intuit, Vice President of Artificial Intelligence |
+| `8.15-8.45` <br /> (30 mins) | Invited talk |
 |:--- |:---|
-| `8.45-9.15` <br />(30 mins) | Invited talk: CJ Taylor, Amazon, Director of Applied Science (AWS Rekognition, Textract) |
+| `8.45-9.15` <br />(30 mins) | Invited talk |
 |:--- |:---|
-| `9.15-9.30` <br />(15 mins) | [Exploring the Trade-Off: Centralized vs Embedded Models for ML Scientists](papers/wamlm-kdd23_paper_matteo_ruffini.pdf)  (Matteo Ruffini and Joos-Hendrik Boese) |
+| `9.15-9.30` <br />(15 mins) | Contributed talk |
 |:--- |:---|
 | `9.30-10.00` <br />(30 mins) | Coffee Break and registration for round tables |
 |:--- |:---|
-| `10.00-10.15` <br />(15 mins) | [The Art of Building ML as a Product: Key Learnings and Strategies](papers/wamlm-kdd23_paper_Shashank_Shashikant_Rao.pdf) (Shashank Shashikant Rao) |
+| `10.00-10.15` <br />(15 mins) | Contributed talk |
 |:--- |:---|
-| `10.15 - 10.30` <br /> (15 mins) | [Onebrain — microprojects for data science](papers/wamlm-kdd23_paper_Daniel_Miller.pdf) <br/> (Daniel Miller, Alex Deng, Narek Amirbekian, Navin Sivanandam and Rodolfo Carboni) |
+| `10.15 - 10.30` <br /> (15 mins) | Contributed talk |
 |:--- |:---|
 |`10.30-11.15` <br />(45 mins) | Round-table discussions |
 |:--- |:---|
-| `11.15-11.30` <br /> (15 mins) | [Achieving ML Reliability at Scale - Learnings and Opportunities](papers/wamlm-kdd23_paper_Ritu_Singh.pdf) (Ritu Singh and Namit Gupta) |
+| `11.15-11.30` <br /> (15 mins) | Contributed talk |
 |:--- |:---|
-| `11.30-11.45` <br /> (15 mins) | [Building and Leading a Team for Generative AI Product](papers/wamlm-kdd23_paper_moran_beladev.pdf) (Moran Beladev) |
+| `11.30-11.45` <br /> (15 mins) | Contributed talk |
 |:--- |:---|
 | `11.45-11.50` <br /> (5 mins) | Closing Remarks |
 
@@ -54,21 +54,31 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 
 ## Invited speakers
 
-#### Nhung Ho, Intuit, Vice President of Artificial Intelligence.
-
-<img class="speaker_image" src="images/nhung_ho.png"/>
-
-Nhung is Vice President of Artificial Intelligence for Intuit’s QuickBooks Ecosystem, TurboTax, and Customer Success organizations. She leads applied science teams that build new-to-the-world products and services backed by artificial intelligence to serve the company’s small business and consumer customers. They solve a variety of problems, ranging from call center demand forecasting and natural language systems to identifying customer intent, automating accounting, and making tax automatic. During her time at Intuit, she has been part of evolving artificial intelligence from a niche field that solved narrow problems to one that is at the core of Intuit’s strategy to become the AI-driven expert platform. Nhung has a Ph.D. in Astrophysics from Yale University and a B.A. in Astrophysics from University of California, Berkeley.
-
-#### CJ Taylor, Amazon, Director of Applied Science (AWS Rekognition, Textract).
-
-CJ Taylor is a Director in Applied Sciences at Amazon’s AWS AI Labs, where he leads one of the largest Computer Vision science teams at Amazon. AI Labs-CV is responsible for the science behind AWS Rekognition, Textract and the planned CV features behind Bedrock, AWS’s Generative AI offering. Over his 11 year tenure at Amazon, CJ also served in the retail business as Applied Science Director for the Visual Search team where they developed visual search for product recognition and augmented reality for product visualization - both available in the mobile app. Prior to Amazon, he spent 14 years in various startups working on video analytics, industrial inspection and SBIR-funded CV research spanning brain MRIs analysis to UAV systems. In the distant past, he served as an ECE lecturer and Robotics Institute researcher at CMU as well as a couple years teaching high school physics. CJ has an M.S. in ECE from CMU and a S.B. in physics from MIT.
+#### TBD
 
 ## Round-table discussions
 
-- [Incorporating Advances in LLMs into the Machine Learning Lifecycle](papers/wamlm-kdd23_paper_Navneet_Rao.pdf). *Presenters: Navneet Rao*
-- [Unlocking Value with LLMs: A Roadmap from Concept to Production](papers/wamlm-kdd23_paper_Tal_Peretz.pdf). *Presenters: Tal Peretz*
-- [Perspectives on recurring challenges faced by ML product teams](papers/wamlm-kdd23_paper_Likhitha_Patha.pdf). *Presenters: Likhitha Patha and Nisarga Markandaiah*
-- [The Science and Art of Driving Business Adoption of ML Models](papers/wamlm-kdd23_paper_Hrishikesh_Vidyadhar.pdf). *Presenters: Hrishikesh Vidyadhar Ganu and Mohak Sukhwani*
-- [Effective Management of Data Sources in Machine Learning](papers/wamlm-kdd23_paper_Kristina_Fedorenko.pdf.pdf). *Presenters: Kristina Fedorenko*
+- 5-6 contribures round table discussions
+
+
+# Organizers
+
+<div markdown="1" class="div_main">
+
+| | |
+|:--- |:---|
+|<img class="organizer_image" src="images/Dima_Goldenberg.jpg" > | **Dmitri (Dima) Goldenberg**  is a Senior Machine Learning Manager at Booking.com, Tel Aviv, where he leads machine learning efforts in recommendations, pricing and promotions personalization, utilizing online learning and uplift modeling techniques. Goldenberg obtained his Masters in Industrial Engineering and Management (with honors) from Tel Aviv University. He led the WSDM '21 and WWW '21 tutorials on personalization and causal uplift modeling, and co-organized the WSDM '21 WebTour, KDD'22 WAMLM and Recsys'22 RecTour workshops. His research and applied work was presented and published in top journals and conferences including WWW, CIKM, WSDM, SIGIR, KDD and RecSys. |
+| | |
+| <img class="organizer_image" src="images/elena_photo.jpeg"/> | **Elena Sokolova** is a Science Manager in applied machine learning in Amazon Research, Cambridge UK. Elena did her PhD in Nijmegen University in the Netherlands, where she worked on Recommender systems and Causality. She is now leading several projects and  teams in Alexa AI in NLP and TTS. Under her lead her team published papers in various conferences such as EMNLP, ICASSP, Interspeech, and filed several patents. Elena was nominated for European Women in Tech lead in Data award in 2019.|
+| | |
+| <img class="organizer_image" src="images/shir_photo.JPG"/> | **Shir Meir Lador** is a Data Science group manager at Intuit, a global leader in the industry of financial management software. Shir is the co-founder of PyData Tel Aviv meetups, WiDS Tel Aviv ambassador, the co-host of “Unsupervised” (a podcast discussing data science in Israel), and gives talks at various machine learning and data science conferences and meetups. Shir holds an M.Sc. in electrical engineering and computers with a major in machine learning and signal processing from Ben-Gurion University.|
+| | |
+| <img class="organizer_image" src="images/irina.jpeg"/>  | **Irina Vasilinetc** is a Senior Manager in Meta. Irina supports WhatsApp Integrity team in London UK. Irina has several publications in statistics and bioinformatics. |
+| | |
+| <img class="organizer_image" >  |**Lin Lee Cheong** is an Applied Science Manager with Machine Learning Solutions Lab (MLSL) in AWS at Santa Clara, CA. Lin Lee received her PhD in Electrical Engineering from the Massachusetts Institute of Technology at Cambridge, MA. She leads a team of scientists and engineers and collaborate directly with AWS strategic customers to develop practical and innovative machine learning solutions. Under her lead, the team has presented and published papers in various conferences such as KDD, NeurIPS and ICCV and filed multiple patents. Previously, she focused on applying machine learning and statistical methods to the semiconductor industry.  |
+| | |
+| <img class="organizer_image" src="images/mohak.jpeg" >  | **Mohak Sukhwani** is a Staff Data Scientist and Manager at Myntra, Bangalore India. He leads a team of scientists focusing on AI/ML solutions for Supply Chain Management, Pricing and various other business domains. Mohak obtained his masters in Computer Science from IIIT Hyderabad, focusing on Computer Vision and Robotics. His research work is published in major venues, including  KDD, ICRA, ECCV, ICPR and BMVC.  |
+| | |
+| <img class="organizer_image" src="images/saloni.JPG" >  | **Saloni Potdar** is a Senior AI/ML Manager in Apple’s Siri and Information Intelligence team. She leads the development of natural language processing and machine learning techniques that power interactions across Siri and Spotlight Search. She works on LLMs, knowledge graphs, question answering, entity linking and synthetic data generation, and deploying these algorithms at scale. Prior to this, she was a Senior Technical Staff Member and Senior Manager at IBM Watson where she developed algorithms for IBM's conversational AI product - Watson Assistant. She has won several awards and was also a semi-finalist on MIT’s TR 35 under 35 in 2022. She was recognized as a Master Inventor at IBM for filing over 30 patents and pushing the boundaries of patent excellence. She has published over 15 research papers at top conferences like AAAI, NAACL, EMNLP and ACL. She got her Masters degree from Language Technologies Institute at Carnegie Mellon University in 2014.
+
 </div>
