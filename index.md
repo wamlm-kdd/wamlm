@@ -2,9 +2,12 @@
 <div class="container">
 <div markdown="1" class="div_main">
 
+
 ## Overview
+<img src="https://kdd2024.kdd.org/wp-content/uploads/2024/01/kdd24-logo-small.jpeg" > 
 
 Machine learning applications are rapidly adopted by industry leaders in any field. The growth of investment in AI-driven solutions created new challenges in managing Data Science and ML resources, people and projects as a whole. The discipline of managing applied machine learning teams, requires a healthy mix between agile product development tool-set and a long term research oriented mindset.  The abilities of investing in deep research while at the same time connecting the outcomes to significant business results create a large knowledge based on management methods and best practices in the field. The Workshop on Applied Machine Learning Management brings together applied research managers from various fields to share methodologies and case-studies on management of ML teams, products, and projects, achieving business impact with advanced AI-methods.
+
 
 ## Important Dates
 <div markdown="1" class="schedule_table">
@@ -82,3 +85,6 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 | <img class="organizer_image" src="images/saloni.JPG" >  | **Saloni Potdar** is a Senior AI/ML Manager in Apple’s Siri and Information Intelligence team. She leads the development of natural language processing and machine learning techniques that power interactions across Siri and Spotlight Search. She works on LLMs, knowledge graphs, question answering, entity linking and synthetic data generation, and deploying these algorithms at scale. Prior to this, she was a Senior Technical Staff Member and Senior Manager at IBM Watson where she developed algorithms for IBM's conversational AI product - Watson Assistant. She has won several awards and was also a semi-finalist on MIT’s TR 35 under 35 in 2022. She was recognized as a Master Inventor at IBM for filing over 30 patents and pushing the boundaries of patent excellence. She has published over 15 research papers at top conferences like AAAI, NAACL, EMNLP and ACL. She got her Masters degree from Language Technologies Institute at Carnegie Mellon University in 2014.
 
 </div>
+
+
+<img class="organizer_image" src="https://kdd2024.kdd.org/wp-content/uploads/2024/01/kdd24-logo-small.jpeg" > 
