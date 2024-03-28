@@ -61,7 +61,7 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 
 ## Round-table discussions
 
-- 5-6 contribures round table discussions
+- 5-6 contribured round table discussions
 
 
 # Organizers
