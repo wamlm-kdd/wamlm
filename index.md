@@ -14,13 +14,71 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 
 | | |
 |:--- |---:|
-|  Paper submission deadline | May 28th, 2024 |
+| <a href="https://easychair.org/my/conference?conf=wamlmkdd24"> Paper submission deadline </a> | May 28th, 2024 |
 |:---|---:|
 | Notification of acceptance | June 28th, 2024 |
 |:---|---:|
 | Workshop on Applied Machine Learning Management| August 26th 2024, 8am-12pm |
 
 </div>
+
+
+## Call for talk proposals
+
+The workshop focuses on main aspects of a successful ML resource management: project lifecycle, people management and ML quality and excellence. We focus on a combination of soft skills applications along with data-driven and empirical approaches to efficiently resolve ML management challenges.
+
+The ML projects life-cycle management include research resources allocation and collaboration with product development, to achieve innovative and applicable outcomes. We solicit presenting real case-studies and high level working model proposals. At the same time, the people management aspects include the unique properties of ML talents and the specific challenges in building AI organisations, fostering research culture and growing research driven individuals in a business driven environment.  Finally, the ML excellence topic include aspects of high-quality ML models and working processes, together with tooling and best practices to ensure them.
+
+We solicit **talk proposals** for the plenary talks session. The proposals should be 0.5-4 pages. We also invite **panel round-table** discussion proposals. Please include in the submission:
+
+- Description of the talk/panel discussion:
+  - Title
+  - Abstract of the talk proposal or round table proposal
+  - Potential discussion points
+  - An explanation about relevance of this talk/panel discussion to the workshop
+- Infor about the presenter:
+  - A short bio of the main presenter (~100 words)
+  - A brief company or project portrait (~60 words)
+- Optional:
+  - References to any existing public materials by the authors on the discussed topic
+
+Proposals should be submitted electronically via Easychair in the <a href="https://easychair.org/conferences/?conf=wamlmkdd24"> following link</a>. Please indicate if you are submitting for a talk, a roundtable. The organizers reserve the right to reassign a talk to roundtable discussion. The review process is single-blind, therefore please include the author details in the submission.
+
+
+
+## Topics of Interest
+
+ The key target audience for this workshop are ML leaders, in different industries and academia, ranging from small teams to department and company leaders. Moreover, the workshop can provide unique insights to any ML practitioner about the processes of managing applied research and share knowledge and ideas between different organisations. While hosted at an academic venue, the applied nature of the workshop allows to apply data-driven approaches on the art of machine learning management.
+
+- **Managing Machine Learning Projects**
+  - ML Projects life-cycle management
+  - Research management
+  - Collaboration with product development
+  - Integration of ML solution in organization
+  - Agile Data Science
+  - Case studies and evaluation
+  - Presenting ML solutions
+- **People Management in ML**
+  - Hiring and building ML teams
+  - ML talent development
+  - Building mission based teams
+  - Culture of applied ML
+  - Community building
+  - Stakeholder management in ML
+  - Measuring success in DS team
+- **ML Excellence**
+  - Maintaining quality in ML
+  - System and infrastructure management
+  - Best practices in ML workflow
+  - Knowledge management
+  - ML assets management
+- **ML as a product**
+  - How to make a successful product from ML tech
+  - Challenges of measuring value of ML
+  - Stages of ML product development
+ - **Generative AI for ML managment
+  - GenAI tools for team managment
+  - GenAI effects on delivery and time managment
 
 ## How to attend
 
