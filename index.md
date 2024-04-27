@@ -1,3 +1,4 @@
+<meta property="og:image" content="images/background.jpeg"/>
 <img width="100%" src="images/background.jpeg"/>
 <div class="container">
 <div markdown="1" class="div_main">
