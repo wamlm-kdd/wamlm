@@ -90,29 +90,28 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 
 | | |
 |:--- |:---|
-| `2.00 - 2.15` <br /> (15 mins)| Opening Remarks |
+| `2.00-2.15` <br /> (15 mins)| Opening Remarks |
 |:--- |:---|
-| `2.15 - 2.45` <br /> (30 mins) | Invited talk |
+| `2.15-2.45` <br /> (30 mins) | Invited talk |
 |:--- |:---|
-| `2.45 - 3.15` <br />(30 mins) | Invited talk |
+| `2.45-3.15` <br />(30 mins) | Invited talk |
 |:--- |:---|
-| `3.15 - 3.30` <br />(15 mins) | Contributed talk |
+| `3.15-3.30` <br />(15 mins) | [From Hypothesis to Member Satisfaction: A Scientific Approach to Product ML Innovation](papers/wamlm_kdd24_abstract_swanand_joshi.pdf) (Swanand Joshi)|
 |:--- |:---|
-| `3.30 - 4.00` <br />(30 mins) | Coffee Break and registration for round tables |
+| `3.30-4.00` <br />(30 mins) | Coffee Break and registration for round tables |
 |:--- |:---|
-| `4.00 - 4.15` <br />(15 mins) | Contributed talk |
+| `4.00-4.15` <br />(15 mins) | [Leadership Transition: Lessons from a Brazilian Fintech](papers/wamlm_kdd24_abstract_gabriel_mendonca.pdf)  (Gabriel Mendonça)|
 |:--- |:---|
-| `4.15 - 4.30` <br /> (15 mins) | Contributed talk |
+| `4.15-4.30` <br /> (15 mins) | [Guiding Principles for Building Scalable, Safe, Secure and Compliant Document Intelligence Systems in GenAI Era](papers/wamlm_kdd24_abstract_tharathorn_joy_rimchala.pdf) (Tharathorn Joy Rimchala)|
 |:--- |:---|
-|`4.30 - 5.15` <br />(45 mins) | Round-table discussions |
+|`4.30-5.15` <br />(45 mins) | Round-table discussions |
 |:--- |:---|
-| `5.15 - 5.30` <br /> (15 mins) | Contributed talk |
+| `5.15-5.30` <br /> (15 mins) | [Learnings from Building Mission-critical AI Systems](papers/wamlm_kdd24_abstract_nandish_jayaram.pdf) (Nandish Jayaram) |
 |:--- |:---|
-| `5.30 - 5.45` <br /> (15 mins) | Contributed talk |
+| `5.30-5.45` <br /> (15 mins) | [Bootstrapping Data Science in an Emerging Industry: finding use cases that built trust and open doors](papers/wamlm_kdd24_abstract_gardiner_von_trapp.pdf) (Gardiner von Trapp and Italo Sayan) |
 |:--- |:---|
-| `5.45 - 5.50` <br /> (5 mins) | Closing Remarks |
+| `5.45-5.50` <br /> (5 mins) | Closing Remarks |
 
-</div>
 
 ## Invited speakers
 
@@ -123,8 +122,8 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 - 5-6 contribured round table discussions
 
 
-# Organizers
-
+## Organizers
+</div>
 <div markdown="1" class="div_main">
 
 | | |
