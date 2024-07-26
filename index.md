@@ -83,9 +83,9 @@ Proposals should be submitted electronically via Easychair in the <a href="https
 
 ## How to attend
 
-The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING that will happen in Barcelona, August 26th, 2024, more information can be found on the official site of the conference: https://kdd.org/kdd2024/. In order to attend the workshop you need to register to the main conference. Registration will open soon. You don't need to submit a paper if you want to attend. The conference will be in person.
+The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING that will happen in Barcelona, August 26th, 2024, more information can be found on the official site of the conference: [https://kdd.org/kdd2024/](https://kdd.org/kdd2024/). In order to attend the workshop you need to register to the main conference. Registration will open soon. You don't need to submit a paper if you want to attend. The conference will be in person.
 
-## 2023 Program
+## 2024 Program
 <div markdown="1" class="schedule_table">
 
 | | |
