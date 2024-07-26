@@ -5,7 +5,7 @@
 
 
 ## Overview
-<img src="https://kdd2024.kdd.org/wp-content/uploads/2024/01/kdd24-logo-small.jpeg" > 
+<img src="https://kdd2024.kdd.org/wp-content/uploads/2024/01/kdd24-logo-small.jpeg" >
 
 Machine learning applications are rapidly adopted by industry leaders in any field. The growth of investment in AI-driven solutions created new challenges in managing Data Science and ML resources, people and projects as a whole. The discipline of managing applied machine learning teams, requires a healthy mix between agile product development tool-set and a long term research oriented mindset.  The abilities of investing in deep research while at the same time connecting the outcomes to significant business results create a large knowledge based on management methods and best practices in the field. The Workshop on Applied Machine Learning Management brings together applied research managers from various fields to share methodologies and case-studies on management of ML teams, products, and projects, achieving business impact with advanced AI-methods.
 
@@ -90,27 +90,27 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 
 | | |
 |:--- |:---|
-| `8.00-8.15` <br /> (15 mins)| Opening Remarks |
+| `2.00 - 2.15` <br /> (15 mins)| Opening Remarks |
 |:--- |:---|
-| `8.15-8.45` <br /> (30 mins) | Invited talk |
+| `2.15 - 2.45` <br /> (30 mins) | Invited talk |
 |:--- |:---|
-| `8.45-9.15` <br />(30 mins) | Invited talk |
+| `2.45 - 3.15` <br />(30 mins) | Invited talk |
 |:--- |:---|
-| `9.15-9.30` <br />(15 mins) | Contributed talk |
+| `3.15 - 3.30` <br />(15 mins) | Contributed talk |
 |:--- |:---|
-| `9.30-10.00` <br />(30 mins) | Coffee Break and registration for round tables |
+| `3.30 - 4.00` <br />(30 mins) | Coffee Break and registration for round tables |
 |:--- |:---|
-| `10.00-10.15` <br />(15 mins) | Contributed talk |
+| `4.00 - 4.15` <br />(15 mins) | Contributed talk |
 |:--- |:---|
-| `10.15 - 10.30` <br /> (15 mins) | Contributed talk |
+| `4.15 - 4.30` <br /> (15 mins) | Contributed talk |
 |:--- |:---|
-|`10.30-11.15` <br />(45 mins) | Round-table discussions |
+|`4.30 - 5.15` <br />(45 mins) | Round-table discussions |
 |:--- |:---|
-| `11.15-11.30` <br /> (15 mins) | Contributed talk |
+| `5.15 - 5.30` <br /> (15 mins) | Contributed talk |
 |:--- |:---|
-| `11.30-11.45` <br /> (15 mins) | Contributed talk |
+| `5.30 - 5.45` <br /> (15 mins) | Contributed talk |
 |:--- |:---|
-| `11.45-11.50` <br /> (5 mins) | Closing Remarks |
+| `5.45 - 5.50` <br /> (5 mins) | Closing Remarks |
 
 </div>
 
@@ -146,4 +146,4 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 </div>
 
 
-<img class="organizer_image" src="https://kdd2024.kdd.org/wp-content/uploads/2024/01/kdd24-logo-small.jpeg" > 
+<img class="organizer_image" src="https://kdd2024.kdd.org/wp-content/uploads/2024/01/kdd24-logo-small.jpeg" >
