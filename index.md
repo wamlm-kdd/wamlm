@@ -112,18 +112,21 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 |:--- |:---|
 | `5.45-5.50` <br /> (5 mins) | Closing Remarks |
 
-
+</div>
 ## Invited speakers
 
 #### TBD
 
 ## Round-table discussions
 
-- 5-6 contribured round table discussions
+
+- [Who writes prompts? Who creates training data? Who does model-fine-tuning? Setting a durable partnership structure between AI and partner teams in the world of GenAI](roundtables/wamlm_kdd24_conrad_de_peuter.pdf). *Presenters: Conrad De Peuter*
+- [Whatamix: Blending up feeds with composable recsys DAGs](roundtables/wamlm_kdd24_jared_casale.pdf). *Presenters: Jared Casale*
+- [Integrating Artificial Intelligence with Product Innovation: Enhancing User Engagement and Transactions at PicPay](roundtables/wamlm_kdd24_yan_werneck.pdf). *Presenters:  Yan Werneck*
+- [Transforming iFood's Content Classification: AI-Powered Efficiency and Scalability with Large Language Models](roundtables/wamlm_kdd24_anna_castro.pdf). *Presenters: Anna Castro and Murilo Menezes*
 
 
 ## Organizers
-</div>
 <div markdown="1" class="div_main">
 
 | | |
