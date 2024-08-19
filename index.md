@@ -14,12 +14,12 @@ Machine learning applications are rapidly adopted by industry leaders in any fie
 <div markdown="1" class="schedule_table">
 
 | | |
-|:--- |---:|
+|:---|---:|
+| Workshop on Applied Machine Learning Management| August 26th 2024, 2pm-6pm |
+| ||
 | <a href="https://easychair.org/my/conference?conf=wamlmkdd24"> Paper submission deadline </a> | June 9th, 2024 |
-|:---|---:|
+|||
 | Notification of acceptance | July 9th, 2024 |
-|:---|---:|
-| Workshop on Applied Machine Learning Management| August 26th 2024, 8am-12pm |
 
 </div>
 
@@ -90,27 +90,27 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 
 | | |
 |:--- |:---|
-| `2.00-2.15` <br /> (15 mins)| Opening Remarks |
+| `14.00-14.15` <br /> (15 mins)| Opening Remarks |
 |:--- |:---|
-| `2.15-2.45` <br /> (30 mins) | Invited talk |
+| `14.15-14.45` <br /> (30 mins) | Invited talk |
 |:--- |:---|
-| `2.45-3.15` <br />(30 mins) | Invited talk |
+| `14.45-15.15` <br />(30 mins) | Invited talk |
 |:--- |:---|
-| `3.15-3.30` <br />(15 mins) | [From Hypothesis to Member Satisfaction: A Scientific Approach to Product ML Innovation](papers/wamlm_kdd24_abstract_swanand_joshi.pdf) (Swanand Joshi)|
+| `15.15-15.30` <br />(15 mins) | [From Hypothesis to Member Satisfaction: A Scientific Approach to Product ML Innovation](papers/wamlm_kdd24_abstract_swanand_joshi.pdf) (Swanand Joshi)|
 |:--- |:---|
-| `3.30-4.00` <br />(30 mins) | Coffee Break and registration for round tables |
+| `15.30-16.00` <br />(30 mins) | Coffee Break and registration for round tables |
 |:--- |:---|
-| `4.00-4.15` <br />(15 mins) | [Leadership Transition: Lessons from a Brazilian Fintech](papers/wamlm_kdd24_abstract_gabriel_mendonca.pdf)  (Gabriel Mendonça)|
+| `16.00-16.15` <br />(15 mins) | [Leadership Transition: Lessons from a Brazilian Fintech](papers/wamlm_kdd24_abstract_gabriel_mendonca.pdf)  (Gabriel Mendonça)|
 |:--- |:---|
-| `4.15-4.30` <br /> (15 mins) | [Guiding Principles for Building Scalable, Safe, Secure and Compliant Document Intelligence Systems in GenAI Era](papers/wamlm_kdd24_abstract_tharathorn_joy_rimchala.pdf) (Tharathorn Joy Rimchala)|
+| `16.15-16.30` <br /> (15 mins) | [Guiding Principles for Building Scalable, Safe, Secure and Compliant Document Intelligence Systems in GenAI Era](papers/wamlm_kdd24_abstract_tharathorn_joy_rimchala.pdf) (Tharathorn Joy Rimchala)|
 |:--- |:---|
-|`4.30-5.15` <br />(45 mins) | Round-table discussions |
+|`16.30-17.15` <br />(45 mins) | Round-table discussions |
 |:--- |:---|
-| `5.15-5.30` <br /> (15 mins) | [Learnings from Building Mission-critical AI Systems](papers/wamlm_kdd24_abstract_nandish_jayaram.pdf) (Nandish Jayaram) |
+| `17.15-17.30` <br /> (15 mins) | [Learnings from Building Mission-critical AI Systems](papers/wamlm_kdd24_abstract_nandish_jayaram.pdf) (Nandish Jayaram) |
 |:--- |:---|
-| `5.30-5.45` <br /> (15 mins) | [Bootstrapping Data Science in an Emerging Industry: finding use cases that built trust and open doors](papers/wamlm_kdd24_abstract_gardiner_von_trapp.pdf) (Gardiner von Trapp and Italo Sayan) |
+| `17.30-17.45` <br /> (15 mins) | [Bootstrapping Data Science in an Emerging Industry: finding use cases that built trust and open doors](papers/wamlm_kdd24_abstract_gardiner_von_trapp.pdf) (Gardiner von Trapp and Italo Sayan) |
 |:--- |:---|
-| `5.45-5.50` <br /> (5 mins) | Closing Remarks |
+| `17.45-17.50` <br /> (5 mins) | Closing Remarks |
 
 </div>
 ## Invited speakers
