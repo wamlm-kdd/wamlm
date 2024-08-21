@@ -92,30 +92,37 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 |:--- |:---|
 | `14.00-14.15` <br /> (15 mins)| Opening Remarks |
 |:--- |:---|
-| `14.15-14.45` <br /> (30 mins) | Invited talk |
+| `14.15-14.45` <br /> (30 mins) | Invited talk: Priya Ponnapalli, Google, Senior Director |
 |:--- |:---|
-| `14.45-15.15` <br />(30 mins) | Invited talk |
+| `14.45-15.00` <br />(15 mins) | [From Hypothesis to Member Satisfaction: A Scientific Approach to Product ML Innovation](papers/wamlm_kdd24_abstract_swanand_joshi.pdf) (Swanand Joshi)|
 |:--- |:---|
-| `15.15-15.30` <br />(15 mins) | [From Hypothesis to Member Satisfaction: A Scientific Approach to Product ML Innovation](papers/wamlm_kdd24_abstract_swanand_joshi.pdf) (Swanand Joshi)|
+| `15.00-15.30` <br />(30 mins) | Coffee Break and registration for round tables |
 |:--- |:---|
-| `15.30-16.00` <br />(30 mins) | Coffee Break and registration for round tables |
+| `15.30-15.45` <br />(15 mins) | [Leadership Transition: Lessons from a Brazilian Fintech](papers/wamlm_kdd24_abstract_gabriel_mendonca.pdf)  (Gabriel Mendonça)|
 |:--- |:---|
-| `16.00-16.15` <br />(15 mins) | [Leadership Transition: Lessons from a Brazilian Fintech](papers/wamlm_kdd24_abstract_gabriel_mendonca.pdf)  (Gabriel Mendonça)|
+| `15.45-16.00` <br /> (15 mins) | [Guiding Principles for Building Scalable, Safe, Secure and Compliant Document Intelligence Systems in GenAI Era](papers/wamlm_kdd24_abstract_tharathorn_joy_rimchala.pdf) (Tharathorn Joy Rimchala)|
 |:--- |:---|
-| `16.15-16.30` <br /> (15 mins) | [Guiding Principles for Building Scalable, Safe, Secure and Compliant Document Intelligence Systems in GenAI Era](papers/wamlm_kdd24_abstract_tharathorn_joy_rimchala.pdf) (Tharathorn Joy Rimchala)|
+|`16.00-16.45` <br />(45 mins) | Round-table discussions |
 |:--- |:---|
-|`16.30-17.15` <br />(45 mins) | Round-table discussions |
+| `16.45-17.00` <br /> (15 mins) | [Learnings from Building Mission-critical AI Systems](papers/wamlm_kdd24_abstract_nandish_jayaram.pdf) (Nandish Jayaram) |
 |:--- |:---|
-| `17.15-17.30` <br /> (15 mins) | [Learnings from Building Mission-critical AI Systems](papers/wamlm_kdd24_abstract_nandish_jayaram.pdf) (Nandish Jayaram) |
+| `17.00-17.15` <br /> (15 mins) | [Bootstrapping Data Science in an Emerging Industry: finding use cases that built trust and open doors](papers/wamlm_kdd24_abstract_gardiner_von_trapp.pdf) (Gardiner von Trapp and Italo Sayan) |
 |:--- |:---|
-| `17.30-17.45` <br /> (15 mins) | [Bootstrapping Data Science in an Emerging Industry: finding use cases that built trust and open doors](papers/wamlm_kdd24_abstract_gardiner_von_trapp.pdf) (Gardiner von Trapp and Italo Sayan) |
-|:--- |:---|
-| `17.45-17.50` <br /> (5 mins) | Closing Remarks |
+| `17.15-17.30` <br /> (5 mins) | Closing Remarks |
 
 </div>
 ## Invited speakers
 
-#### TBD
+### Priya Ponnapalli, Google, Senior Director
+Priya Ponnapalli is a senior director of engineering at Google, where she is responsible for building AI/ML infrastructure and services to accelerate research, and translate breakthroughs into products; this includes infrastructure and tooling for building and launching responsible AI models and applications at scale.
+
+
+
+Prior to this, Ponnapalli was a director of applied science at Amazon Web Services (AWS), where she led the Amazon Machine Learning Solutions Lab, a global organization that works with AWS' largest and most strategic customers to solve their business needs using machine learning across all industries: from improving fan engagement for sports organizations such as the National Football League (NFL) and Formula 1, to accelerating drug discovery for healthcare and life sciences customers such as Janssen. Priya joined AWS from Eigengene, a personalized-medicine startup she co-founded. Ponnapalli was named to the 2021 Business Insider list of 100 people transforming business, recognizing her work in leading businesses into the machine learning landscape.
+
+
+
+For her Ph.D. in electrical and computer engineering at the University of Texas at Austin, Ponnapalli defined and demonstrated the higher-order generalized singular value decomposition (HO GSVD), a multi-tensor decomposition, and the only framework that can create a single coherent model from multiple two-dimensional datasets by extending the GSVD from two to more than two matrices.
 
 ## Round-table discussions
 
