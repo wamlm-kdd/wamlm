@@ -114,6 +114,9 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 ## Invited speakers
 
 ### Priya Ponnapalli, Google, Senior Director
+
+<img class="speaker_image" src="images/priya.jpg"/>
+
 Priya Ponnapalli is a senior director of engineering at Google, where she is responsible for building AI/ML infrastructure and services to accelerate research, and translate breakthroughs into products; this includes infrastructure and tooling for building and launching responsible AI models and applications at scale.
 
 
