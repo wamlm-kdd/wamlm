@@ -102,13 +102,13 @@ The workshop is a part of the ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND D
 |:--- |:---|
 | `15.45-16.00` <br /> (15 mins) | [Guiding Principles for Building Scalable, Safe, Secure and Compliant Document Intelligence Systems in GenAI Era](papers/wamlm_kdd24_abstract_tharathorn_joy_rimchala.pdf) (Tharathorn Joy Rimchala)|
 |:--- |:---|
-|`16.00-16.45` <br />(45 mins) | Round-table discussions |
+|`16.00-17:00` <br />(45 mins) | Round-table discussions |
 |:--- |:---|
-| `16.45-17.00` <br /> (15 mins) | [Learnings from Building Mission-critical AI Systems](papers/wamlm_kdd24_abstract_nandish_jayaram.pdf) (Nandish Jayaram) |
+| `17.00-17.15` <br /> (15 mins) | [Learnings from Building Mission-critical AI Systems](papers/wamlm_kdd24_abstract_nandish_jayaram.pdf) (Nandish Jayaram) |
 |:--- |:---|
-| `17.00-17.15` <br /> (15 mins) | [Bootstrapping Data Science in an Emerging Industry: finding use cases that built trust and open doors](papers/wamlm_kdd24_abstract_gardiner_von_trapp.pdf) (Gardiner von Trapp and Italo Sayan) |
+| `17.15-17.30` <br /> (15 mins) | [Bootstrapping Data Science in an Emerging Industry: finding use cases that built trust and open doors](papers/wamlm_kdd24_abstract_gardiner_von_trapp.pdf) (Gardiner von Trapp and Italo Sayan) |
 |:--- |:---|
-| `17.15-17.30` <br /> (5 mins) | Closing Remarks |
+| `17.30-17.35` <br /> (5 mins) | Closing Remarks |
 
 </div>
 ## Invited speakers
